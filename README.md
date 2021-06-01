@@ -1,4 +1,4 @@
-# Hi there, I'm @MBellydo 👋
+# Hi there, I'm @MBellydo 👋 :es: | :uk:
 
 **mbellydo/mbellydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ## Websites Done or that I've take part of
 
-* [BlueMagicCat](https://bluemagiccat.com)
-- [ChartersBCN](https://www.chartersbcn.com)
-+ [Fotografia Desvern](http://www.fotografiadesvern.com)
-* [Catvents](https://catvents.com)
-- [Super-Ficción](https://super-ficcion.com)
-+ [PartyPay](https://partypay.es)
-* [Ampa Escola del Clot](http://afaescoladelclot.com)
+* :anchor: [BlueMagicCat](https://bluemagiccat.com)
+- :boat: [ChartersBCN](https://www.chartersbcn.com)
++ :camera: [Fotografia Desvern](http://www.fotografiadesvern.com)
+* :sailboat: [Catvents](https://catvents.com)
+- :space_invader: [Super-Ficción](https://super-ficcion.com)
++ :tada: [PartyPay](https://partypay.es)
+* :school: [Ampa Escola del Clot](http://afaescoladelclot.com)
 
 ## Social Media
 
