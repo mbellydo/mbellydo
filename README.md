@@ -2,23 +2,25 @@
 
 <!-- **mbellydo/mbellydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!--
-Here are some ideas to get you started:
+I'm a: Front End Programmer & Web Designer and Developer | Webmaster | Web Artist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## Here are some ideas to get you started:
+
+- 🔭 I’m currently looking for a job
+- 🌱 I’m always learning
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-
+- 💬 Ask me about ... -->
+- 😄 Pronouns: He/Him
+- 💬 I speak: Spanish & English
+<!-- - ⚡ Fun fact: ... -->
 - 📫 How to reach me: [mbellydo@gmail.com](mailto:mbellydo@gmail.com)
 
 ## Websites Done or that I've take part of
 
+* :rocket: [Nuclio Digital School](https://nuclio.school)
+- :school: [Nuclio Digital School Short Courses](https://courses.nuclio.school)
++ :school_satchel: [Nuclio Digital School Moodle](https://campus.nuclio.school/login/index.php)
 * :anchor: [BlueMagicCat](https://bluemagiccat.com)
 - :boat: [ChartersBCN](https://www.chartersbcn.com)
 + :camera: [Fotografia Desvern](http://www.fotografiadesvern.com)
@@ -30,6 +32,8 @@ Here are some ideas to get you started:
 ## Social Media
 
 * [LinkedIn](https://www.linkedin.com/in/marc-bellido-dorador/)
+* [CodePen](https://codepen.io/mbellydo)
+* [Stack Overflow](https://stackoverflow.com/users/21120999/mbellydo)
 
 ## GitHub Stats
 
