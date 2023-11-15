@@ -6,7 +6,7 @@ I'm a: Front End Programmer & Web Designer and Developer | Webmaster | Web Artis
 
 ## Here are some ideas to get you started:
 
-- 🔭 I’m currently looking for a job
+- 🔭 I’m a webmaster or webartist
 - 🌱 I’m always learning
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
