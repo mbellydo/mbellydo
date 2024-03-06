@@ -18,6 +18,8 @@ I'm a: Front End Programmer & Web Designer and Developer | Webmaster | Web Artis
 
 ## Websites Done or that I've take part of
 
+* 💼 [ICR Chile](https://icrchile.cl)
+* 🌎 [Odorox by Pyure](https://odorox.cl)
 * 🦺 [Instogar 02 S.L.](https://instogar02.com)
 * :rocket: [Nuclio Digital School](https://nuclio.school) | :school: [NDS Short Courses](https://courses.nuclio.school) | :school_satchel: [NDS Moodle](https://campus.nuclio.school/login/index.php)
 * :sailboat: [CatVents](https://catvents.com) | :anchor: [ChartersBCN](https://chartersbcn.com)
